@@ -1,5 +1,7 @@
-# DevPost AWS datachallenge
-# Aiding Small Business With Intelligent Targeting
+# DevPost AWS Data Exchange Challenge
+
+## Aiding Small Business With Intelligent Targeting
+By Luis Vera
 
 ## Inspiration
 COVID-19 has changed every business, every industry and every long term business strategy. Retail banking was already battling an aging strategy while furiously building their digital capacity. For those companies that have successfully erected a digital transformation program within their firm, they have yet to build value gathering insight on how to approach new business amidst the pandemic. 
