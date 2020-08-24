@@ -1,6 +1,7 @@
 # DevPost AWS Data Exchange Challenge
 
 ## Aiding Small Business With Intelligent Targeting
+
 By Luis Vera
 
 ## Inspiration
