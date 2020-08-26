@@ -13,6 +13,18 @@ The U.S. has taken actions on combatting the effects of this invisible disease a
 
 For decades, SBA Loans have been the best way to finance your business. The loans come in two flavors: SBA Loan 7a, SBA Loan 504. To avoid going into details about nuance qualifications and features, there are a slew of benefits to being awarded one of these awards. Unfortunately, there are certain cons that could completely wipe out businesses during this business climate.  For instance, SBA loans take weeks to get approved and dislike startups or founders with poor credit. In the interest of their business, and the nation, banks have a duty to revisit areas that have traditionally been a catalyst for entrepreneurship. 
 
+Small Businesses Generate 44 Percent of U.S. Economic Activity - https://advocacy.sba.gov/2019/01/30/small-businesses-generate-44-percent-of-u-s-economic-activity/#:~:text=WASHINGTON%2C%20D.C.%20%E2%80%93%20Small%20businesses%20are,percent%20of%20U.S.%20economic%20activity.
+
+Gross Domestic Product - https://www.bea.gov/data/gdp/gross-domestic-product
+
+The CARES Act Sent you $1,200 Check but Gave Millionaires and Billionaires Far More - https://www.propublica.org/article/the-cares-act-sent-you-a-1-200-check-but-gave-millionaires-and-billionaires-far-more
+
+Few Minority-Owned Businesses Got Relief Loans They Asked For - https://www.nytimes.com/2020/05/18/business/minority-businesses-coronavirus-loans.html
+
+SBA Loans: What You Need to Know - https://www.nerdwallet.com/article/small-business/small-business-loans-sba-loans
+
+Best Banks For Business Loans - https://www.startups.com/library/expert-advice/best-banks-for-business-loans
+
 
 ## What it does
 This project attempts to analyze data from the Small Business Administration (SBA) Loans provided by Enigma. This analysis will try to optimize targeting for businesses in need of SBA loans. Traditionally, SBA Loans take weeks to get approved. Borrows have looked for online lenders to speed up the process. If banks can target the areas in greatest need of a loan than they can help rebuild this economy faster. 
